@@ -1,6 +1,1 @@
-#include <stdio.h>
-
-int main(){
-  printf("c");
-  printf("opensw");
-}
+강도훈 202100193 컴퓨터공학부
