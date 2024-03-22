@@ -4,4 +4,5 @@ int main(){
   printf("c");
   printf("opensw");
   printf("수정좀 할게요");
+  printf("하이여");
 }
