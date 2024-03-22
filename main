@@ -4,7 +4,10 @@ int main(){
   printf("c");
   printf("opensw");
   printf("수정좀 할게요");
+
   pirntf("수정 두번 할게요");
   printf("한번 더 할게요");
   pirntf("이 사이에 해볼게");
+
+  printf("하이여");
 }
